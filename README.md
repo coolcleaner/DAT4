@@ -1,3 +1,8 @@
+### some editing
+
+
+
+
 ## DAT4 Course Repository
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (12/15/14 - 3/16/15).
